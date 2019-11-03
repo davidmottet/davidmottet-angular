@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+	font: 14px/20px 'Montserrat', sans-serif;
+}
+
+.spacer { flex: 1 1 auto; }
+.center { text-align: center; }
